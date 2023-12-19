@@ -5,7 +5,7 @@
 
 ✅ Then python virtual environment i.e. **.\venv\Scripts\Activate.ps1**.
 
-✅ Now coming to the root directory where all of the repository files are downloaded, run the python **app.py** file.
+✅ Now coming to the root directory where all of the repository files are downloaded, run the **app.py** file.
 
   👇 The Below is the Image of the home page.
   
